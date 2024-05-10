@@ -1,0 +1,36 @@
+body{
+    font-family: jejumyeongio;
+    background-color: #F8F8FF;
+}
+
+#profile{
+    width: 353px;
+    height: 353px;
+    margin-top: 150px;
+}
+
+/* header */
+#nav{
+    background-color:#F26989;
+    height: 84px; 
+}
+
+/* footer */
+#foot{
+    background-color:#F26989;
+    height: 84px;
+}
+
+/* text for nav bar */
+
+.nav-link{
+    color: white;
+
+    /* to centre img vertically */
+    display: flex;
+    align-items: center;
+}
+
+.ph{
+    margin-top: 170px;
+}
